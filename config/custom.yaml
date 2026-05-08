@@ -19,7 +19,7 @@ llm:
 
 source:
   arxiv:
-    category: ["cs.infrastructure","cs.network","cs.PPP"]
+    category: ["cs.INFRASTRUCTURE","cs.COLLABORATION NETWORK","cs.PPP","cs.PUBLIC PROCUREMENT"]
 
 executor:
   debug: ${oc.env:DEBUG,null}
