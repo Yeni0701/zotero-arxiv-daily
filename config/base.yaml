@@ -1,7 +1,7 @@
 zotero:
   user_id: ??? # User ID of your Zotero account.
   api_key: ??? # An Zotero API key with read access.
-  include_path: "D:\0zotero\Zotero\博士论文\合同外包" # A list of glob patterns marking the Zotero collections that should be included. Example: ["2026/survey/**","2026/reading-group/**"]
+  include_path: ["D:\0zotero\Zotero\博士论文\合同外包"] # A list of glob patterns marking the Zotero collections that should be included. Example: ["2026/survey/**","2026/reading-group/**"]
   ignore_path: null # A list of glob patterns marking the Zotero collections that should be excluded. Example: ["2026/ignore/**","archive/**"]
 
 source:
